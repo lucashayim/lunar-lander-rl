@@ -1,0 +1,24 @@
+{
+  "PPO": {
+    "episodios": 100,
+    "recompensa_media": 179.1,
+    "desvio_padrao": 92.1,
+    "mediana": 216.0,
+    "minimo": -41.8,
+    "maximo": 286.8,
+    "pct_episodios_ge_200": 62.0,
+    "pct_episodios_ge_100": 81.0,
+    "pct_episodios_negativos": 9.0
+  },
+  "DQN": {
+    "episodios": 100,
+    "recompensa_media": -14.2,
+    "desvio_padrao": 21.8,
+    "mediana": -12.1,
+    "minimo": -52.9,
+    "maximo": 34.4,
+    "pct_episodios_ge_200": 0.0,
+    "pct_episodios_ge_100": 0.0,
+    "pct_episodios_negativos": 72.0
+  }
+}
